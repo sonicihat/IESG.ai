@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/IESG.ai/static/css/main.f4b35372.css",
+    "main.js": "/IESG.ai/static/js/main.55a700e3.js",
+    "static/js/453.9318114c.chunk.js": "/IESG.ai/static/js/453.9318114c.chunk.js",
+    "static/media/nature-background.mp4": "/IESG.ai/static/media/nature-background.92fd5c10cde599d85b18.mp4",
+    "static/media/IESG LOGO HQ no background.png": "/IESG.ai/static/media/IESG LOGO HQ no background.c5b573ea49733616ee08.png",
+    "index.html": "/IESG.ai/index.html",
+    "main.f4b35372.css.map": "/IESG.ai/static/css/main.f4b35372.css.map",
+    "main.55a700e3.js.map": "/IESG.ai/static/js/main.55a700e3.js.map",
+    "453.9318114c.chunk.js.map": "/IESG.ai/static/js/453.9318114c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4b35372.css",
+    "static/js/main.55a700e3.js"
+  ]
+}
